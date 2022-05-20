@@ -25,4 +25,4 @@ ANN_Perceptron_Report.pdf : Report detailihng the methodology behind the neural 
 
 ## Run
 
-Download the MNIST fashion dataset [Source](https://www.kaggle.com/datasets/zalando-research/fashionmnist). Using preffered Mathlab 
+Download the MNIST fashion dataset [Source](https://www.kaggle.com/datasets/zalando-research/fashionmnist). Using preffered Mathlab editor, load the demo and BackpropogationANN files into MATLAB, run the demo.
