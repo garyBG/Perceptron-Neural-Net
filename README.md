@@ -7,9 +7,11 @@ Optimized through generalized batch training, image preprocessing, and variable 
 Performs at a 89% mean accuracy classification rate, equal to the top 1% of MLP classifiers.
 
 ![Architecture](structure.png)
+
 Three-layer (196,49,10 neuron) perceptron architecture
 
 ![MSE](MSE.png)
+
 Mean-square-error over 1000 epochs for a stochastic-gradient descent trained
 3-layer(196-49-10) network
 
